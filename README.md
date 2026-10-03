@@ -1,8 +1,40 @@
-# Fayaz Ali | Portfolio
+# 🚀 Personal Portfolio Website
 
-Personal portfolio site (single-file HTML/CSS/JS, no build step).
+A modern, responsive, and high-performance developer portfolio built to showcase my projects, technical skill set, and experience in Computer Systems Engineering and Generative AI development.
 
-## Publish with GitHub Pages
-1. Upload `index.html` and `README.md` to the repo root.
-2. Repo Settings > Pages > Deploy from a branch > `main` / `(root)` > Save.
-3. Your site will be at `https://fayaz-unar.github.io/<repo-name>/` (or `https://fayaz-unar.github.io/` if the repo is named `fayaz-unar.github.io`).
+🔗 **Live Demo:** [portfolio-fayaz14.vercel.app](https://portfolio-fayaz14.vercel.app/)
+
+---
+
+## ✨ Features
+
+- **Responsive Design:** Optimized across all screen sizes (mobile, tablet, desktop).
+- **Interactive UI:** Smooth transitions, modern layout, and clean typography.
+- **Featured Projects:** Highlights key open-source projects, AI applications, and technical repositories.
+- **Skills & Expertise:** Showcases programming languages, AI/LLM frameworks, and simulation tools.
+- **Contact & Social Links:** Direct integration to GitHub, LinkedIn, and email.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js / React, Tailwind CSS, TypeScript / JavaScript
+- **Deployment:** Vercel
+- **Version Control:** Git & GitHub
+
+---
+
+## ⚡ Getting Started Locally
+
+Follow these steps to run the portfolio on your local machine:
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) installed (v18+ recommended) and `npm` or `pnpm`.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Fayaz-unar/portfolio.git](https://github.com/Fayaz-unar/portfolio.git)
+   cd portfolio

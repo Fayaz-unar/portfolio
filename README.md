@@ -2,7 +2,7 @@
 
 A modern, responsive, and high-performance developer portfolio built to showcase my projects, technical skill set, and experience in Computer Systems Engineering and Generative AI development.
 
-🔗 **Live Demo:** [portfolio-fayaz14.vercel.app](https://portfolio-fayaz14.vercel.app/)
+🔗 **Live Demo:** =https://portfolio-fayaz14.vercel.app?_vercel_share=NvPABPSsBoyiPBmezrMlSFr6EWVRqjzp
 
 ---
 
